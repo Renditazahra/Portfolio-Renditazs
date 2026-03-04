@@ -1,4 +1,4 @@
-import gweh from "../assets/images/gweh.png";
+//import me from "../assets/images/gweh.png";
 
 function Hero() {
   return (
@@ -101,7 +101,7 @@ function Hero() {
           }}
         />
 
-        <img
+        {/* <img
           src={me}
           alt="Rendita Zahra Syahranie"
           style={{
@@ -115,7 +115,7 @@ function Hero() {
               drop-shadow(-10px 0 25px rgba(236,72,153,0.25))
             `,
           }}
-        />
+        /> */}
       </div>
     </section>
   );
