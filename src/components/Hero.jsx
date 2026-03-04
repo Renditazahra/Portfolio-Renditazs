@@ -1,4 +1,4 @@
-import me from "../assets/images/gweh.png";
+import gweh from "../assets/images/gweh.png";
 
 function Hero() {
   return (
