@@ -30,31 +30,31 @@ projects supporting innovation programs, internal events, and corporate branding
     projects: [
       {
         title: "INTALKS – Inspiring Talks",
-        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\kementerian-pertanian\layout-majalah.png",
+        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\United-Tractors\flayer-program.png",
         description:
           "Designed the main visual identity for INTALKS, including event banners and promotional materials.",
       },
       {
         title: "UTVI Visual Identity",
-        image: "/assets/Projects/United-Tractors/UTVI-logo.png",
+        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\United-Tractors\UTVI-logo.png",
         description:
           "Developed visual identity assets supporting innovation communication initiatives.",
       },
       {
         title: "UTVI Instagram Feed Design",
-        image: "/assets/Projects/United-Tractors/utvi-instagram-feed.png",
+        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\United-Tractors\utvi-instagram-feed.png",
         description:
           "Designed structured and visually engaging Instagram feed content.",
       },
       {
         title: "Mascot & Illustration Design",
-        image: "/assets/Projects/United-Tractors/illustration.png",
+        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\United-Tractors\illustration.png",
         description:
           "Developed mascot characters and supporting illustrations.",
       },
       {
         title: "Event Merchandise Design",
-        image: "/assets/Projects/United-Tractors/utvi-merchandise.png",
+        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\United-Tractors\utvi-merchandise.png",
         description:
           "Created branded merchandise for corporate innovation events.",
       },
@@ -71,7 +71,7 @@ ministerial media.
     projects: [
       {
         title: "Media Perkebunan Magazine Layout",
-        image: "/assets/Projects/kementerian-pertanian/layout-majalah.png",
+        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\kementerian-pertanian\layout-majalah.png",
         description:
           "Designed cover and inner page layouts using strong typographic hierarchy.",
       },
@@ -88,43 +88,43 @@ MagangHub apprenticeship program.
     projects: [
       {
         title: "Commemorative Visual Campaigns",
-        image: "/assets/Projects/Kemnaker/hari-besar.png",
+        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\Kemnaker\hari-besar.png",
         description:
           "Designed official social media visuals aligned with institutional branding.",
       },
       {
         title: "Allowance Information Campaign",
-        image: "/assets/Projects/Kemnaker/Informasi.png",
+        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\Kemnaker\Informasi.png",
         description:
           "Created structured informational visuals explaining program details.",
       },
       {
         title: "Mentor Timeline System",
-        image: "/assets/Projects/Kemnaker/Countdown.png",
+        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\Kemnaker\Countdown.png",
         description:
           "Developed structured monthly reporting visuals.",
       },
       {
         title: "Soft Skill Programme Poster",
-        image: "/assets/Projects/Kemnaker/softskill-poster.png",
+        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\Kemnaker\softskill-poster.png",
         description:
           "Designed official event poster emphasizing agenda clarity.",
       },
       {
         title: "YouTube Thumbnail Design",
-        image: "/assets/Projects/Kemnaker/softskill-thumbnail.png",
+        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\Kemnaker\softskill-thumbnail.png",
         description:
           "Created high-impact thumbnails optimized for mobile viewing.",
       },
       {
         title: "Virtual Background Design",
-        image: "/assets/Projects/Kemnaker/softskill-virtual-bg.png",
+        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\Kemnaker\softskill-virtual-bg.png",
         description:
           "Designed professional branded virtual backgrounds.",
       },
       {
         title: "Infographic Poster Series",
-        image: "/assets/Projects/Kemnaker/Infografis.png",
+        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\Kemnaker\Infografis.png",
         description:
           "Created structured infographic posters simplifying policy and program information.",
       },
