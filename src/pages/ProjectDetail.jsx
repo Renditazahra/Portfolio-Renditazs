@@ -36,25 +36,25 @@ projects supporting innovation programs, internal events, and corporate branding
       },
       {
         title: "UTVI Visual Identity",
-        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\United-Tractors\UTVI-logo.png",
+        image: "/public/assets/Projects/United-Tractors/UTVI-logo.png",
         description:
           "Developed visual identity assets supporting innovation communication initiatives.",
       },
       {
         title: "UTVI Instagram Feed Design",
-        image: "./public/assets/Projects/United-Tractors/utvi-instagram-feed.png",
+        image: "/public/assets/Projects/United-Tractors/utvi-instagram-feed.png",
         description:
           "Designed structured and visually engaging Instagram feed content.",
       },
       {
         title: "Mascot & Illustration Design",
-        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\United-Tractors\illustration.png",
+        image: "/public/assets/Projects/United-Tractors/illustration.png",
         description:
           "Developed mascot characters and supporting illustrations.",
       },
       {
         title: "Event Merchandise Design",
-        image: "./public/assets/Projects/United-Tractors/utvi-merchandise.png",
+        image: "/public/assets/Projects/United-Tractors/utvi-merchandise.png",
         description:
           "Created branded merchandise for corporate innovation events.",
       },
@@ -71,7 +71,7 @@ ministerial media.
     projects: [
       {
         title: "Media Perkebunan Magazine Layout",
-        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\kementerian-pertanian\layout-majalah.png",
+        image: "/assets/Projects/kementerian-pertanian/layout-majalah.png",
         description:
           "Designed cover and inner page layouts using strong typographic hierarchy.",
       },
@@ -88,43 +88,43 @@ MagangHub apprenticeship program.
     projects: [
       {
         title: "Commemorative Visual Campaigns",
-        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\Kemnaker\hari-besar.png",
+        image: "/public/assets/Projects/Kemnaker/hari-besar.png",
         description:
           "Designed official social media visuals aligned with institutional branding.",
       },
       {
         title: "Allowance Information Campaign",
-        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\Kemnaker\Informasi.png",
+        image: "/public/assets/Projects/Kemnaker/Informasi.png",
         description:
           "Created structured informational visuals explaining program details.",
       },
       {
         title: "Mentor Timeline System",
-        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\Kemnaker\Countdown.png",
+        image: "/public/assets/Projects/Kemnaker/Countdown.png",
         description:
           "Developed structured monthly reporting visuals.",
       },
       {
         title: "Soft Skill Programme Poster",
-        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\Kemnaker\softskill-poster.png",
+        image: "/public/assets/Projects/Kemnaker/softskill-poster.png",
         description:
           "Designed official event poster emphasizing agenda clarity.",
       },
       {
         title: "YouTube Thumbnail Design",
-        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\Kemnaker\softskill-thumbnail.png",
+        image: "/public/assets/Projects/Kemnaker/softskill-thumbnail.png",
         description:
           "Created high-impact thumbnails optimized for mobile viewing.",
       },
       {
         title: "Virtual Background Design",
-        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\Kemnaker\softskill-virtual-bg.png",
+        image: "/public/assets/Projects/Kemnaker/softskill-virtual-bg.png",
         description:
           "Designed professional branded virtual backgrounds.",
       },
       {
         title: "Infographic Poster Series",
-        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\Kemnaker\Infografis.png",
+        image: "/public/assets/Projects/Kemnaker/Infografis.png",
         description:
           "Created structured infographic posters simplifying policy and program information.",
       },
