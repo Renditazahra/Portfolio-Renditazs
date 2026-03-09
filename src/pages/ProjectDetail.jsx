@@ -1,23 +1,23 @@
 import { useParams, Link } from "react-router-dom";
 
 /* ================= UNITED TRACTORS ================= */
-import intalks from "/assets/projects/united-tractors/flayer-program.png";
-import utvi from "/assets/projects/united-tractors/UTVI-logo.png";
-import mascot from "/assets/projects/united-tractors/illustration.png";
-import igFeed from "/assets/projects/united-tractors/utvi-instagram-feed.png";
-import merch from "/assets/projects/united-tractors/utvi-merchandise.png";
+import intalks from "../assets/projects/United-Tractors/flayer-program.png";
+import utvi from "../assets/projects/United-Tractors/UTVI-logo.png";
+import mascot from "../assets/projects/United-Tractors/illustration.png";
+import igFeed from "../assets/projects/United-Tractors/utvi-instagram-feed.png";
+import merch from "../assets/projects/United-Tractors/utvi-merchandise.png";
 
 /* ================= KEMENTAN ================= */
-import majalah from "/assets/projects/kementerian-pertanian/layout-majalah.png";
+import majalah from "../assets/projects/kementerian-pertanian/layout-majalah.png";
 
 /* ================= KEMNAKER ================= */
-import hariBesar from "/assets/projects/kemnaker/hari-besar.png";
-import informasiUangSaku from "/assets/projects/kemnaker/informasi.png";
-import jadwalMentor from "/assets/projects/kemnaker/Countdown.png";
-import softSkillPoster from "/assets/projects/kemnaker/softskill-poster.png";
-import softSkillThumbnail from "/assets/projects/kemnaker/softskill-thumbnail.png";
-import softSkillVirtualBg from "/assets/projects/kemnaker/softskill-virtual-bg.png";
-import infografisPoster from "/assets/projects/kemnaker/Infografis.png";
+import hariBesar from "../assets/projects/kemnaker/hari-besar.png";
+import informasiUangSaku from "../assets/projects/kemnaker/informasi.png";
+import jadwalMentor from "../assets/projects/kemnaker/Countdown.png";
+import softSkillPoster from "../assets/projects/kemnaker/softskill-poster.png";
+import softSkillThumbnail from "../assets/projects/kemnaker/softskill-thumbnail.png";
+import softSkillVirtualBg from "../assets/projects/kemnaker/softskill-virtual-bg.png";
+import infografisPoster from "../assets/projects/kemnaker/Infografis.png";
 
 const projectData = {
   "united-tractors": {
