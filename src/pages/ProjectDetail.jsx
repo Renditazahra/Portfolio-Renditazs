@@ -1,23 +1,23 @@
 import { useParams, Link } from "react-router-dom";
 
 /* ================= UNITED TRACTORS ================= */
-import intalks from "/assets/projects/United-Tractors/flayer-program.png";
-import utvi from "/assets/projects/United-Tractors/UTVI-logo.png";
-import mascot from "/assets/projects/United-Tractors/illustration.png";
-import igFeed from "/assets/projects/United-Tractors/utvi-instagram-feed.png";
-import merch from "/assets/projects/United-Tractors/utvi-merchandise.png";
+// import intalks from "/assets/projects/United-Tractors/flayer-program.png";
+// import utvi from "/assets/projects/United-Tractors/UTVI-logo.png";
+// import mascot from "/assets/projects/United-Tractors/illustration.png";
+// import igFeed from "/assets/projects/United-Tractors/utvi-instagram-feed.png";
+// import merch from "/assets/projects/United-Tractors/utvi-merchandise.png";
 
 /* ================= KEMENTAN ================= */
-import majalah from "/assets/projects/kementerian-pertanian/layout-majalah.png";
+// import majalah from "/assets/projects/kementerian-pertanian/layout-majalah.png";
 
 /* ================= KEMNAKER ================= */
-import hariBesar from "/assets/projects/kemnaker/hari-besar.png";
-import informasiUangSaku from "/assets/projects/kemnaker/informasi.png";
-import jadwalMentor from "/assets/projects/kemnaker/Countdown.png";
-import softSkillPoster from "/assets/projects/kemnaker/softskill-poster.png";
-import softSkillThumbnail from "/assets/projects/kemnaker/softskill-thumbnail.png";
-import softSkillVirtualBg from "/assets/projects/kemnaker/softskill-virtual-bg.png";
-import infografisPoster from "/assets/projects/kemnaker/Infografis.png";
+// import hariBesar from "/assets/projects/kemnaker/hari-besar.png";
+// import informasiUangSaku from "/assets/projects/kemnaker/informasi.png";
+// import jadwalMentor from "/assets/projects/kemnaker/Countdown.png";
+// import softSkillPoster from "/assets/projects/kemnaker/softskill-poster.png";
+// import softSkillThumbnail from "/assets/projects/kemnaker/softskill-thumbnail.png";
+// import softSkillVirtualBg from "/assets/projects/kemnaker/softskill-virtual-bg.png";
+// import infografisPoster from "/assets/projects/kemnaker/Infografis.png";
 
 const projectData = {
   "united-tractors": {
@@ -30,31 +30,31 @@ projects supporting innovation programs, internal events, and corporate branding
     projects: [
       {
         title: "INTALKS – Inspiring Talks",
-        image: intalks,
+        image: "/assets/projects/United-Tractors/flayer-program.png",
         description:
           "Designed the main visual identity for INTALKS, including event banners and promotional materials.",
       },
       {
         title: "UTVI Visual Identity",
-        image: utvi,
+        image: "/assets/projects/United-Tractors/UTVI-logo.png",
         description:
           "Developed visual identity assets supporting innovation communication initiatives.",
       },
       {
         title: "UTVI Instagram Feed Design",
-        image: igFeed,
+        image: "/assets/projects/United-Tractors/utvi-instagram-feed.png",
         description:
           "Designed structured and visually engaging Instagram feed content.",
       },
       {
         title: "Mascot & Illustration Design",
-        image: mascot,
+        image: "/assets/projects/United-Tractors/illustration.png",
         description:
           "Developed mascot characters and supporting illustrations.",
       },
       {
         title: "Event Merchandise Design",
-        image: merch,
+        image: "/assets/projects/United-Tractors/utvi-merchandise.png",
         description:
           "Created branded merchandise for corporate innovation events.",
       },
@@ -71,7 +71,7 @@ ministerial media.
     projects: [
       {
         title: "Media Perkebunan Magazine Layout",
-        image: majalah,
+        image: "/assets/projects/kementerian-pertanian/layout-majalah.png",
         description:
           "Designed cover and inner page layouts using strong typographic hierarchy.",
       },
@@ -88,43 +88,43 @@ MagangHub apprenticeship program.
     projects: [
       {
         title: "Commemorative Visual Campaigns",
-        image: hariBesar,
+        image: "/assets/projects/kemnaker/hari-besar.png",
         description:
           "Designed official social media visuals aligned with institutional branding.",
       },
       {
         title: "Allowance Information Campaign",
-        image: informasiUangSaku,
+        image: "/assets/projects/kemnaker/informasi.png",
         description:
           "Created structured informational visuals explaining program details.",
       },
       {
         title: "Mentor Timeline System",
-        image: jadwalMentor,
+        image: "/assets/projects/kemnaker/Countdown.png",
         description:
           "Developed structured monthly reporting visuals.",
       },
       {
         title: "Soft Skill Programme Poster",
-        image: softSkillPoster,
+        image: "/assets/projects/kemnaker/softskill-poster.png",
         description:
           "Designed official event poster emphasizing agenda clarity.",
       },
       {
         title: "YouTube Thumbnail Design",
-        image: softSkillThumbnail,
+        image: "/assets/projects/kemnaker/softskill-thumbnail.png",
         description:
           "Created high-impact thumbnails optimized for mobile viewing.",
       },
       {
         title: "Virtual Background Design",
-        image: softSkillVirtualBg,
+        image: "/assets/projects/kemnaker/softskill-virtual-bg.png",
         description:
           "Designed professional branded virtual backgrounds.",
       },
       {
         title: "Infographic Poster Series",
-        image: infografisPoster,
+        image: "/assets/projects/kemnaker/Infografis.png",
         description:
           "Created structured infographic posters simplifying policy and program information.",
       },
