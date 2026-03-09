@@ -30,7 +30,7 @@ projects supporting innovation programs, internal events, and corporate branding
     projects: [
       {
         title: "INTALKS – Inspiring Talks",
-        image: "/assets/Projects/United-Tractors/flayer-program.png",
+        image: "C:\PORTOFOLIO\portofolio\public\assets\Projects\kementerian-pertanian\layout-majalah.png",
         description:
           "Designed the main visual identity for INTALKS, including event banners and promotional materials.",
       },
