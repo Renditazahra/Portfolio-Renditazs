@@ -1,9 +1,9 @@
 /* eslint-disable no-unused-vars */
 import { Link } from "react-router-dom";
-import kemnaker from "../assets/experience/KEMNAKER.png";
-import ut from "../assets/experience/UNITED-TRACTORS.jpg";
-import kementan from "../assets/experience/KEMENTAN.png";
-import erlangga from "../assets/experience/ERLANGGA.png";
+import kemnaker from "/assets/experience/KEMNAKER.png";
+import ut from "/assets/experience/UNITED-TRACTORS.jpg";
+import kementan from "/assets/experience/KEMENTAN.png";
+import erlangga from "/assets/experience/ERLANGGA.png";
 
 function Project() {
   return (
@@ -47,7 +47,7 @@ function Project() {
         }}
       >
         <img
-          src={kemnaker}
+          src="/assets/experience/KEMNAKER.png"
           alt="Kementerian Ketenagakerjaan RI"
           style={{
             width: "100%",
@@ -99,7 +99,7 @@ function Project() {
       >
         {/* UNITED TRACTORS */}
         <div className="card">
-          <img src={ut} alt="United Tractors Tbk" />
+          <img src="/assets/experience/UNITED-TRACTORS.jpg" alt="United Tractors Tbk" />
 
           <div style={{ padding: "20px" }}>
             <span style={{ fontSize: "13px", opacity: 0.6 }}>
@@ -125,7 +125,7 @@ function Project() {
 
         {/* KEMENTAN */}
         <div className="card">
-          <img src={kementan} alt="Kementerian Pertanian RI" />
+          <img src="/assets/experience/KEMENTAN.png" alt="Kementerian Pertanian RI" />
 
           <div style={{ padding: "20px" }}>
             <span style={{ fontSize: "13px", opacity: 0.6 }}>
@@ -151,7 +151,7 @@ function Project() {
 
         {/* ERLANGGA */}
         <div className="card">
-          <img src={erlangga} alt="PT Erlangga Publisher" />
+          <img src="/assets/experience/ERLANGGA.png" alt="PT Erlangga Publisher" />
 
           <div style={{ padding: "20px" }}>
             <span style={{ fontSize: "13px", opacity: 0.6 }}>
