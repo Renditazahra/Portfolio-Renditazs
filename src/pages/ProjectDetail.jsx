@@ -30,19 +30,19 @@ projects supporting innovation programs, internal events, and corporate branding
     projects: [
       {
         title: "INTALKS – Inspiring Talks",
-        image: "/public/assets/Projects/United-Tractors/flayer-program.png",
+        image: "/assets/Projects/United-Tractors/flayer-program.png",
         description:
           "Designed the main visual identity for INTALKS, including event banners and promotional materials.",
       },
       {
         title: "UTVI Visual Identity",
-        image: "/public/assets/Projects/United-Tractors/UTVI-logo.png",
+        image: "/assets/Projects/United-Tractors/UTVI-logo.png",
         description:
           "Developed visual identity assets supporting innovation communication initiatives.",
       },
       {
         title: "UTVI Instagram Feed Design",
-        image: "/public/assets/Projects/United-Tractors/utvi-instagram-feed.png",
+        image: "/assets/Projects/United-Tractors/utvi-instagram-feed.png",
         description:
           "Designed structured and visually engaging Instagram feed content.",
       },
