@@ -30,7 +30,7 @@ projects supporting innovation programs, internal events, and corporate branding
     projects: [
       {
         title: "INTALKS – Inspiring Talks",
-        image: "./public/assets/Projects/United-Tractors/utvi-merchandise.png",
+        image: "/public/assets/Projects/United-Tractors/utvi-merchandise.png",
         description:
           "Designed the main visual identity for INTALKS, including event banners and promotional materials.",
       },
