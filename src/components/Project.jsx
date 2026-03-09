@@ -1,9 +1,9 @@
 /* eslint-disable no-unused-vars */
 import { Link } from "react-router-dom";
-import kemnaker from "../assets/experience/KEMNAKER.png";
-import ut from "../assets/experience/UNITED-TRACTORS.jpg";
-import kementan from "../assets/experience/KEMENTAN.png";
-import erlangga from "../assets/experience/ERLANGGA.png";
+import kemnaker from "/assets/experience/KEMNAKER.png";
+import ut from "/assets/experience/UNITED-TRACTORS.jpg";
+import kementan from "/assets/experience/KEMENTAN.png";
+import erlangga from "/assets/experience/ERLANGGA.png";
 
 function Project() {
   return (
